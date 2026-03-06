@@ -12,6 +12,18 @@ The theme features a dark, glass-like aesthetic with fluid animations and target
 
 ---
 
+## Screenshots
+
+| Carousel | Game Details |
+|:---:|:---:|
+| ![Carousel](assets/images/screenshots/carousel.jpg) | ![Game Details](assets/images/screenshots/game-details.jpg) |
+
+| Settings Menu | RetroAchievements Hub |
+|:---:|:---:|
+| ![Settings Menu](assets/images/screenshots/settings-menu.jpg) | ![RetroAchievements](assets/images/screenshots/retroachievements.jpg) |
+
+---
+
 ## Features
 
 - **WiiFlow-inspired 3D carousel** — animated cover-flow with physical box depth, rotation and perspective rendering

@@ -62,14 +62,19 @@ On Android, `<storage>` is typically the root of your internal storage or SD car
 
 | Input | Action |
 |-------|--------|
-| D-Pad Left / Right | Navigate categories |
-| D-Pad Up / Down | Navigate sub-items / move in lists |
-| A (Accept) | Confirm / enter |
-| B (Back) | Go back / close panel |
-| Y | Context action (swap, secondary action) |
-| X | Context action (filter, tertiary action) |
+| D-Pad Left / Right | Scroll through covers |
+| D-Pad Up / Down | Navigate toolbar / select cover / move in lists |
+| A (Accept) | Confirm / select cover |
+| B (Back) | Go back / deselect cover / close panel |
+| Y | Context action (favourite, swap) |
+| X | Context action (search, reset slider) |
+| L1 | Previous platform · (selected) previous cover |
+| R1 | Next platform · (selected) next cover |
+| L1 + R1 | Switch view mode · (selected) open RA game detail |
+| L2 | Jump to previous letter · (selected) zoom |
+| R2 | Jump to next letter · (selected) zoom |
 | Start / Menu button | Open theme menu |
-| Select / Search button | Open search |
+| Select | Open search |
 
 ---
 
